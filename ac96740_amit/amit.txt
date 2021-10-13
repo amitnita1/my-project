@@ -1,0 +1,19 @@
+1-At first I created dataBase for both Donor and DonorCamp
+
+2-After that connected both  to the Eureka server
+
+3-And then I have  checked and found Controllers Methods are working perfectly in PostMan 
+
+4-After this Added Actuators
+
+5-And now Implemented Spring MVC and all the methods are working 
+
+
+
+
+
+Methods which are not working properly-
+
+1-Clients can view donors of Specific Group who are eligible to donate, eligible donor are those who have donated blood six months before the current date 
+
+2-Update method I have implemented but this, after adding some code Im getting error which Im unable to figure out.
